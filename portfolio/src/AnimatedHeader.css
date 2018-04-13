@@ -1,0 +1,12 @@
+.AnimatedHeader{
+	width: 100px;
+    height: 100px;
+    position: relative;
+    background-color: #c7c6bd;
+    animation-name: example;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+}
+
+@keyframes example {
+}
